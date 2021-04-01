@@ -1,0 +1,9 @@
+{
+    "insecure-registries" : [
+      "localhost:443",
+      "127.0.0.1:443",
+      "sandy.registry.com:443"
+    ],
+    "debug" : true,
+    "experimental" : true
+  }
